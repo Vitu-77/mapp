@@ -4,7 +4,7 @@ MAPP - Plataforma para visualização de base de dados georreferenciados, é uma
 #### *MAPP é uma aplicação exclusivamente frontend, portanto é necessário que a mesma consuma dados fornecidos por API's externas.*
 
 ## Desenvolvimento:
-O sistema foi desenvolvimento no ambiente Web, utilizando JavaScript como linguagem de programação, sendo as seguintes bibliotecas utilizadas na contrução:
+O sistema foi desenvolvimento no ambiente Web, utilizando JavaScript como linguagem de programação, sendo as seguintes bibliotecas utilizadas na construção:
  - ### React 
  _Uma poderosa e robusta biblioteca JavaScript focada exclusivamente no desenvolvimento de interfaces de usuário._ [Ver mais](https://reactjs.org/)
  - ### Leaflet
