@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.444a5b09.chunk.css",
+    "main.js": "/static/js/main.648a413d.chunk.js",
+    "main.js.map": "/static/js/main.648a413d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.a9fe6764.chunk.css": "/static/css/2.a9fe6764.chunk.css",
+    "static/js/2.b91ae59c.chunk.js": "/static/js/2.b91ae59c.chunk.js",
+    "static/js/2.b91ae59c.chunk.js.map": "/static/js/2.b91ae59c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.017ed34a8fff9c5243be0ead04ba7530.js": "/precache-manifest.017ed34a8fff9c5243be0ead04ba7530.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a9fe6764.chunk.css.map": "/static/css/2.a9fe6764.chunk.css.map",
+    "static/css/main.444a5b09.chunk.css.map": "/static/css/main.444a5b09.chunk.css.map",
+    "static/media/HomeBackground.svg": "/static/media/HomeBackground.1c767467.svg",
+    "static/media/Logo.svg": "/static/media/Logo.8e34dcc9.svg"
+  }
+}
